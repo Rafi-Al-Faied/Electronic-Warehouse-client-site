@@ -1,0 +1,132 @@
+.footer {
+    color: #fff;
+    background-color: rgb(46, 44, 43);
+    padding: 50px 0px 20px;
+    border-top-left-radius: 105px;
+    bottom: 0;
+    font-size: 13px;
+    line-height: 20px;
+    background: #04091E;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 20px;
+}
+
+
+.footer .row {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer .column {
+    flex-basis: 25%;
+    padding: 10px;
+}
+
+.footer h3 {
+    width: fit-content;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.footer p {
+    text-align: left;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+
+.footer .column ul li {
+    list-style: none;
+    margin-bottom: 12px;
+}
+
+.footer .column ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-form {
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+    color: #fff;
+
+
+}
+.footer-form .icon{
+  
+font-size: 20px;
+
+}
+
+.footer-form .far {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.footer-form input {
+    width: 100%;
+    background: transparent;
+    color: #ccc;
+    border: 0;
+    outline: none;
+    padding-left: 20px;
+}
+
+.footer-form button {
+    background: transparent;
+    color: #ccc;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+
+}
+
+.column3 .icons {
+    margin-top: 30px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.icon2 {
+    background-color: #000;
+    color: #fff;
+}
+.icon3 {
+    background-color: rgb(227, 82, 162);
+    color: #fff;
+}
+
+.footer-form button .fas {
+    font-size: 16px;
+    color: #ccc;
+}
+.copy {
+    background-color: #222224;
+    margin-bottom: 0px;
+    padding-bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width:736px) {
+    .footer .column {
+        margin-right: 100px;
+    }
+}
+
+
+    @media only screen and (min-width: 737px) and (max-width: 1198px) {
+    .products-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

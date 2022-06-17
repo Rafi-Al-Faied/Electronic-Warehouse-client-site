@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Apple Watch",
+        "img": "https://i.ibb.co/rdjYv0y/apple-watch-04-removebg-preview.png",
+        "description": "Receive and respond to notiﬁcations in an instant. Track your daily activity. ",
+        "price": "$360",
+        "quantity": "30",
+        "supplier": "Kylie Jenner"
+    },
+    {
+        "name": "Motorola Moto 360",
+        "img": "https://i.ibb.co/y4kW8ZC/360moto-01-removebg-preview.png",
+        "description": "The new Moto 360 combines edge-to-edge glass with an exceptionally thin, polished bezel.",
+        "price": "$650",
+        "quantity": "19",
+        "supplier": "Ana Mario"
+    },
+    {
+        "name": "Samsung s2",
+        "img": "https://i.ibb.co/fndY8cF/download-removebg-preview.png",
+        "description": "Gear S2 is all about being intuitive. Beginning with it's design. ",
+        "price": "$560",
+        "quantity": "24",
+        "supplier": "Ema Irin"
+    },
+    {
+        "name": "Apple ipad mini4",
+        "img": "https://i.ibb.co/cbPVG3k/Apple-i-Pad-mini-4-removebg-preview.png",
+        "description": "There’s more to mini than meets the eye. The new iPad mini 4 puts uncompromising performance.",
+        "price": "$470",
+        "quantity": "37",
+        "supplier": "Robert Bruclee"
+    },
+    {
+        "name": "AppleiMac27-inch",
+        "img": "https://i.ibb.co/zZ0Cvzw/imac-n-removebg-preview.png",
+        "description": "We designed a chip, the A8X, that delivers substantially better CPU and graphics performance than its predecessor.",
+        "price": "$790",
+        "quantity": "42",
+        "supplier": "Warcy Nicholas"
+    },
+    {
+        "name": "Macbook Pro",
+        "img": "https://i.ibb.co/484H7p6/macbook-pro-removebg-preview.png",
+        "description": "Fourth-generation Intel Core processors in MacBook Air give you more time to do more things. ",
+        "price": "$240",
+        "quantity": "55",
+        "supplier": "Donald William"
+    },
+    {
+        "name": "Snarkitecture Headphone",
+        "img": "https://i.ibb.co/TtVKCGM/HC424-01-removebg-preview.png",
+        "description": "Completely redesigned, the Beats Studio over-ear headphones are even lighter, stronger, and more comfortable.",
+        "price": "$345",
+        "quantity": "34",
+        "supplier": "Teresa Melodi"
+    },
+    {
+        "name": "Sony Xperia Z3",
+        "img": "https://i.ibb.co/X8GKKBB/61-Uauy-U-e-DL-AC-SX679-removebg-preview.png",
+        "description": "Meet Xperia Z3. An Android phone that allows you to take photos and videos like never before.",
+        "price": "$120",
+        "quantity": "20",
+        "supplier": "Mrs.Burz Ogez"
+    },
+    {
+        "name": "Iphone 13 pro max",
+        "img": "https://i.ibb.co/RPfBk1d/iphone-13-pro-max-verde-alpino-01-l-removebg-preview.png",
+        "description": "The iPhone 13pro max replaces the iPhone 12 pro max in the Apple stable, inheriting its internals.",
+        "price": "$670",
+        "quantity": "50",
+        "supplier": "Daniel Cena"
+    },
+    {
+        "name": "Galaxy note 3",
+        "img": "",
+        "description": "The Samsung Galaxy Note 3 is powered by 1.9GHz octa-core and it comes with 3GB of RAM.",
+        "price": "$260",
+        "quantity": "60",
+        "supplier": "Nancy Farnandis"
+    },
+    {
+        "name": "Corsair Headphone",
+        "img": "",
+        "description": "Engineered from the ground up to provide a superior personal listening experience that sounds, fits, and moves like you.",
+        "price": "$345",
+        "quantity": "30",
+        "supplier": "Mr.Thomas"
+    },
+    {
+        "name": "Wireless Headphone",
+        "img": "",
+        "description": "Beats Wireless headphones give you the sound quality that made Beats by Dr. Dre famous.",
+        "price": "$190",
+        "quantity": "50",
+        "supplier": "Mr.John "
+    }
+]

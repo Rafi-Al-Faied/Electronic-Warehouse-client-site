@@ -1,0 +1,22 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+/* @media only screen and (max-width:576px) {
+    .cart{
+        position:absolute;
+        top: 0;
+        padding: 30px 20px;
+        margin-bottom: 300px;
+    }
+  
+}
+
+@media only screen and (min-width: 577px) and (max-width: 992px) {
+    .cart{
+        position:relative;
+        top: 0;
+        padding: 30px 20px;
+    }
+} */

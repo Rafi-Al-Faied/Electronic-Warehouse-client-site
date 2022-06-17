@@ -1,0 +1,7 @@
+.Notfound  {
+    display: flex;
+    justify-content: center;
+}
+.Notfound img {
+    height: 500px;
+}

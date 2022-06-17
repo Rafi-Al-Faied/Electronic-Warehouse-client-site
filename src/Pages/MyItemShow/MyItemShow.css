@@ -1,0 +1,71 @@
+.myItem{
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    padding: 8px;
+    margin-top: 21px;
+    width: 571px;
+    display: flex;
+}
+.myItem p{
+  color: #fff;
+}
+.myItem img{
+    width: 91px;
+}
+
+.myItem-details p{
+    margin: 0;
+}
+
+.myItem-details-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.myItem .delete-container{
+    display: flex;
+    align-items: center;
+}
+
+.myItem .delete-button{
+    background: rgba(235, 87, 87, 0.3);
+    border: 0;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.delete-icon{
+    color: rgba(235, 87, 87, 1);
+    font-size: 27px;
+}
+
+
+/* make services responsive */
+@media only screen and (max-width:576px) {
+    .myItem-details-container{
+       
+    }
+    .myItem{
+        border: 1px solid #95A0A7;
+        border-radius: 8px;
+        padding: 8px;
+        margin-top: 21px;
+        width: 301px;
+        display: flex;
+        margin-left: 90px;
+        
+    }
+    .cart-container {
+        margin-top: 100px;
+    }
+  
+}
+
+@media only screen and (min-width: 577px) and (max-width: 992px) {
+    .services-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

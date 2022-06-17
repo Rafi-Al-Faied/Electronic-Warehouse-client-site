@@ -1,0 +1,53 @@
+
+ .Blogs-container{
+    margin-top: 50px;   
+}
+.blogs  .column{
+    border: 1px solid green;
+    margin: 50px;
+    background-color: #222224;
+}
+.blogs-number {
+    background-color: rgb(178, 246, 173);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+    margin-top: 5px;
+    border-radius: 5px;
+    color: #222224;
+}
+.blogs-number2 {
+
+    width: 70px;
+    height: 50px;
+
+}
+.blogs-question {
+    display: flex;
+}
+.blogs h1 {
+    color: #fff; 
+    text-align: center;
+}
+
+.blogs h3,
+h1,
+.p {
+    color: rgb(215, 206, 206);
+}
+
+@media only screen and (max-width:736px) {
+    .Blogs-container{
+       
+    }
+}
+
+
+    @media only screen and (min-width: 737px) and (max-width: 1198px) {
+    .Products-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

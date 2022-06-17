@@ -1,0 +1,50 @@
+.carousel img{
+    height: 650px;
+}
+.slider-text {
+    font-size: 90px;
+    float: left;
+    color: black;
+    margin-right: 30%;
+    margin-left: 50px;
+    margin-bottom: 150px;
+    width: 30%;
+    font-weight: 700;
+    text-align: left;
+}
+
+
+@media only screen and (min-width: 377px) and (max-width: 992px) {
+    .carousel img{
+        height: 400px;
+    }
+    .slider-text {
+        font-size: 90px;
+        float: left;
+        color: black;
+        margin-right: 30%;
+        margin-left: 50px;
+        margin-bottom: 150px;
+        width: 30%;
+        font-weight: 700;
+    }
+}
+
+
+@media screen and (max-width:1100px) {
+    .carousel img{
+        height: 350px;
+    }
+    .slider-text {
+        font-size: 35px;
+        float: left;
+        color: black;
+        margin-right: 30%;
+        margin-left: -35px;
+        margin-bottom: 50px;
+        width: 20%;
+        font-weight: 700;
+        text-align: left;
+    }
+
+}

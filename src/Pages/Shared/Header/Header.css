@@ -1,0 +1,9 @@
+/* body {
+    background-color: #333232;
+} */
+.navbar {
+    background-color: #222222;
+    color: #fff;
+    border-top: 1px solid #BCBCB2;
+    border-bottom: 1px solid #BCBCB2;
+}
